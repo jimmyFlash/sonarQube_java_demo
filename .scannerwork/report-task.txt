@@ -1,0 +1,6 @@
+projectKey=sonar_scanner:project
+serverUrl=http://localhost:9000
+serverVersion=8.4.1.35646
+dashboardUrl=http://localhost:9000/dashboard?id=sonar_scanner%3Aproject
+ceTaskId=AXTPREf_0NeUIPH4XguV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXTPREf_0NeUIPH4XguV
